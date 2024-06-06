@@ -2,7 +2,7 @@
 
 **`| Aspiring Full-Time Data & ML Scientist | Mechanical Engineer | Azure Networking Engineer |`**
 
-My name is long, I know... Just choose the one you like the most. I am a Mechanical Engineer Graduate, a Networking Engineer by trade, and an aspiring Data & Machine Learning Scientist learning all the skills to change the world with AI. All these projects are built from the ground up, from planning and designing all the way to solving real-life problems.
+I am a Mechanical Engineer Graduate, a Networking Engineer by trade, and an aspiring Data & Machine Learning Scientist learning all the skills to change the world with AI. All these projects are built from the ground up, from planning and designing all the way to solving real-life problems.
 
    <p align="left"> 
      <a href="https://github.com/RayVazcari?tab=followers">
