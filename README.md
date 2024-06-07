@@ -4,14 +4,16 @@
 
 I am a Mechanical Engineer Graduate, a Networking Engineer by trade, and an aspiring Data & Machine Learning Scientist learning all the skills to change the world with AI. All these projects are built from the ground up, from planning and designing all the way to solving real-life problems.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rayvazcari&label=Profile%20views&color=0e75b6&style=flat" alt="rayvazcari" /> </p>
+
    <p align="left"> 
      <a href="https://github.com/RayVazcari?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/RayVazcari?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow me on Github &logoColor=white"/></a>
       <a href="https://github.com/RayVazcari?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/RayVazcari?color=55960c&style=for-the-badge&labelColor=488207&logoSource=feather&logo=star"/></a>
       <a href="https://www.linkedin.com/in/rayvazcari/">
-         <img alt="Linkedin Profile" title="Likedin Profile" src="https://custom-icon-badges.demolab.com/badge/-Linkedin%20Profile-blue?style=for-the-badge&logoColor=white&logo=linkedin"/></a> 
-  </a>
+         <img alt="Linkedin Profile" title="Likedin Profile" src="https://custom-icon-badges.demolab.com/badge/-Linkedin%20Profile-blue?style=for-the-badge&logoColor=white&logo=linkedin"/></a>
+      </a>
 </p>
 
 ---
@@ -49,7 +51,7 @@ I am a Mechanical Engineer Graduate, a Networking Engineer by trade, and an aspi
 
 ---
 
-- 🔭 I’m currently working on [asd](asd)
+- 🔭 I’m currently working on **Learning Data Science and Machine Learning. As well as finding projects to strengthen my skills**
 
 - 🌱 I’m currently learning **asd**
 
