@@ -52,22 +52,18 @@ I am a Mechanical Engineer Graduate, a Networking Engineer by trade, and an aspi
 
 ---
 
-- 🔭 I’m currently working on **Learning Data Science and Machine Learning. As well as finding projects to strengthen my skills**
+- 🔭 I’m currently working on:
+   - **Finishing my Post Graduate Degree in Data Science and Analytics at UT Austin McCobmbs School of Business**
+   - **Azure DP-900**
+   - **Azure DP-100**
 
-- 🌱 I’m currently learning **asd**
-
-- 👯 I’m looking to collaborate on [asd](asd)
-
-- 🤝 I’m looking for help with [as](asd)
-
-- 👨‍💻 All of my projects are available at [asd](asd)
-
-- 📝 I regularly write articles on [asd](asd)
-
-- 💬 Ask me about **asd**
-
-- 📫 How to reach me **asd**
-
-- 📄 Know about my experiences [asd](asd)
-
-- ⚡ Fun fact **asd**
+- 🌱 I’m currently learning:
+   - **Exploratory Data Analyis**
+   - **Hypotheis Testing**
+   - **Linear Regression**
+   - **Supervised Learning**
+   - **Logistic Regression**
+   - **Ensemble Methods**
+   - **Model Tuning**
+   - **Unsupervised Learning**
+   - **SQL**
