@@ -37,6 +37,7 @@ I am a Mechanical Engineer Graduate, a Networking Engineer by trade, and an aspi
 <a href="https://seaborn.pydata.org/" target="_blank"><img align="left" alt="Seaborn" title="Seaborn" width="30px" style="padding-right:10px;" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" /></a>
 
 <br />
+</p>
 <br />
 
 ### 🤖 Languages and Tools I am Currently Learning
@@ -57,13 +58,23 @@ I am a Mechanical Engineer Graduate, a Networking Engineer by trade, and an aspi
 
 
 ---
+- 🏆 Milestones
+   - I have successfully completred my Post Graduate Degree in Data Science and Analytics at UT Austin McCobmbs School of Business**  
+
+<br />
 
 - 🔭 I’m currently working on:
-   - **Finishing my Post Graduate Degree in Data Science and Analytics at UT Austin McCobmbs School of Business**
-   - **Azure DP-900**
-   - **Azure DP-100**
+   - **[Microsoft Certified: Azure Data Fundamentals - DP-900](https://learn.microsoft.com/en-us/credentials/certifications/azure-data-fundamentals/?practice-assessment-type=certification)**
+   - **[Microsoft Certified: Azure Data Scientist Associate - DP-100](https://learn.microsoft.com/en-us/credentials/certifications/azure-data-scientist/?practice-assessment-type=certification)**
+   - **[Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction?utm_campaign=WebsiteCourses-MLS-TopButton-mls-launch-2022&utm_medium=institutions&utm_source=deeplearning-ai)**
+   - **[ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)**
+   - **[DeepLearning.AI Data Engineering Professional Certificate](https://www.coursera.org/professional-certificates/data-engineering?utm_campaign=dlai-lp&utm_medium=institutions&utm_source=deeplearning-ai)**
+   - **[Generative AI for Software Development Skill Certificate](https://www.coursera.org/professional-certificates/generative-ai-for-software-development?utm_campaign=dlai-lp&utm_medium=institutions&utm_source=deeplearning-ai)**
+   - **[Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning?utm_source=deeplearningai&utm_medium=institutions&utm_campaign=WebsiteCoursesDLSTopButton)**
 
-- 🌱 I’m currently learning:
+<br />
+
+- 🦾 Skills Learned:
    - **Exploratory Data Analyis**
    - **Hypotheis Testing**
    - **Linear Regression**
@@ -72,4 +83,13 @@ I am a Mechanical Engineer Graduate, a Networking Engineer by trade, and an aspi
    - **Ensemble Methods**
    - **Model Tuning**
    - **Unsupervised Learning**
+
+<br />
+
+- 🌱 I’m currently learning:
+   - **Azure Machine Learning Studio**
+   - **Machine Learning**
+   - **Deep Learning**
    - **SQL**
+   - **R**
+
