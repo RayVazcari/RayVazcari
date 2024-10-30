@@ -32,7 +32,6 @@ I am a Mechanical Engineer Graduate, a Networking Engineer by trade, and an aspi
 <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img align="left" alt="Powershell" title="Powershell" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" /></a>
 <a href="https://www.python.org/" target="_blank"><img align="left" alt="Python" title="Python" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /></a>
 <a href="https://www.raspberrypi.org/" target="_blank"><img align="left" alt="Raspberry Pi" title="Raspberry Pi" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" /></a>
-<a href="https://www.spyder-ide.org/" target="_blank"><img align="left" alt="Spyder" title="Spyder" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spyder/spyder-original.svg" /></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img align="left" alt="VScode" title="VScode" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" /></a>
 <a href="https://seaborn.pydata.org/" target="_blank"><img align="left" alt="Seaborn" title="Seaborn" width="30px" style="padding-right:10px;" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" /></a>
 
@@ -50,6 +49,7 @@ I am a Mechanical Engineer Graduate, a Networking Engineer by trade, and an aspi
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img align="left" alt="HTML" title="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" /></a>
 <a href="https://www.linux.org/" target="_blank"><img align="left" alt="Linux" title="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></a>
 <a href="https://pytorch.org/" target="_blank"><img align="left" alt="Pytorch" title="Pytorch" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg"/></a>
+<a href="https://www.spyder-ide.org/" target="_blank"><img align="left" alt="Spyder" title="Spyder" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spyder/spyder-original.svg" /></a>
 
 
 
