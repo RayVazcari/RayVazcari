@@ -2,20 +2,20 @@
 
 <img src="assets/banner.svg" alt="Ray Vazquez — Data & ML Scientist" width="100%" />
 
-<a href="https://github.com/RayVazcari"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=00F0FF&center=true&vCenter=true&width=700&height=40&lines=%3E+Aspiring+Data+%26+ML+Scientist;%3E+Mechanical+Engineer+%2B+Azure+Networking+Engineer;%3E+Building+AI+projects+from+the+ground+up;%3E+Bouldering+Novice+%F0%9F%A7%97" alt="Typing intro" /></a>
+<a href="https://github.com/RayVazcari"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=5ad7ff&center=true&vCenter=true&width=700&height=40&lines=%3E+Aspiring+Data+%26+ML+Scientist;%3E+Mechanical+Engineer+%2B+Azure+Networking+Engineer;%3E+Building+AI+projects+from+the+ground+up;%3E+Bouldering+Novice+%F0%9F%A7%97" alt="Typing intro" /></a>
 
 <br/>
 
-<a href="https://www.linkedin.com/in/rayvazcari/"><img src="https://img.shields.io/badge/LINKEDIN-00F0FF?style=for-the-badge&logo=linkedin&logoColor=07070f&labelColor=07070f&color=00F0FF" alt="LinkedIn" /></a>
-<a href="https://github.com/RayVazcari?tab=followers"><img src="https://img.shields.io/badge/FOLLOW_ME-ff2a6d?style=for-the-badge&logo=github&logoColor=white&labelColor=07070f" alt="Follow me" /></a>
-<a href="https://github.com/RayVazcari?tab=repositories"><img src="https://img.shields.io/badge/REPOS-12-f9f002?style=for-the-badge&logo=gitbook&logoColor=f9f002&labelColor=07070f" alt="Repos" /></a>
-<img src="https://komarev.com/ghpvc/?username=RayVazcari&label=PROFILE%20VIEWS&color=7b2dff&style=for-the-badge" alt="Profile views" />
+<a href="https://www.linkedin.com/in/rayvazcari/"><img src="https://img.shields.io/badge/LINKEDIN-5ad7ff?style=for-the-badge&logo=linkedin&logoColor=050a11&labelColor=050a11&color=5ad7ff" alt="LinkedIn" /></a>
+<a href="https://github.com/RayVazcari?tab=followers"><img src="https://img.shields.io/badge/FOLLOW_ME-ffb347?style=for-the-badge&logo=github&logoColor=white&labelColor=050a11" alt="Follow me" /></a>
+<a href="https://github.com/RayVazcari?tab=repositories"><img src="https://img.shields.io/badge/REPOS-12-ffb347?style=for-the-badge&logo=gitbook&logoColor=ffb347&labelColor=050a11" alt="Repos" /></a>
+<img src="https://komarev.com/ghpvc/?username=RayVazcari&label=PROFILE%20VIEWS&color=5ad7ff&style=for-the-badge" alt="Profile views" />
 
 </div>
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-## `> whoami`
+## `// 01 · OPERATOR`
 
 I'm a **Mechanical Engineering graduate**, a **Networking Engineer by trade** (Azure), and an **aspiring Data & Machine Learning Scientist** learning every skill I can to change the world with AI.
 
@@ -26,14 +26,14 @@ Every project here is built from the ground up: planning, designing, and solving
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-## `> ls ./projects`
+## `// 02 · MISSION LOG`
 
 ### 🌐 Web builds
 
 | Project | What it is | Stack |
 |---|---|---|
-| **[smart-cubic-demo](https://github.com/RayVazcari/smart-cubic-demo)** | Bilingual (EN/ES) marketing site for a San Antonio water-restoration company, deployed on GitHub Pages | ![HTML](https://img.shields.io/badge/HTML-07070f?style=flat-square&logo=html5&logoColor=ff2a6d) ![CSS](https://img.shields.io/badge/CSS-07070f?style=flat-square&logo=css3&logoColor=00f0ff) ![JS](https://img.shields.io/badge/JS-07070f?style=flat-square&logo=javascript&logoColor=f9f002) |
-| **[somos-career-journey](https://github.com/RayVazcari/somos-career-journey)** | Concept prototype of a career-journey experience with a live demo | ![JS](https://img.shields.io/badge/JavaScript-07070f?style=flat-square&logo=javascript&logoColor=f9f002) |
+| **[smart-cubic-demo](https://github.com/RayVazcari/smart-cubic-demo)** | Bilingual (EN/ES) marketing site for a San Antonio water-restoration company, deployed on GitHub Pages | ![HTML](https://img.shields.io/badge/HTML-050a11?style=flat-square&logo=html5&logoColor=ffb347) ![CSS](https://img.shields.io/badge/CSS-050a11?style=flat-square&logo=css3&logoColor=5ad7ff) ![JS](https://img.shields.io/badge/JS-050a11?style=flat-square&logo=javascript&logoColor=ffb347) |
+| **[somos-career-journey](https://github.com/RayVazcari/somos-career-journey)** | Concept prototype of a career-journey experience with a live demo | ![JS](https://img.shields.io/badge/JavaScript-050a11?style=flat-square&logo=javascript&logoColor=ffb347) |
 
 ### 🧠 Data science & machine learning
 
@@ -54,7 +54,7 @@ Every project here is built from the ground up: planning, designing, and solving
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-## `> cat ./stack`
+## `// 03 · SYSTEMS`
 
 <div align="center">
 
@@ -62,13 +62,13 @@ Every project here is built from the ground up: planning, designing, and solving
 
 <br/>
 
-![Pandas](https://img.shields.io/badge/Pandas-07070f?style=for-the-badge&logo=pandas&logoColor=ff2a6d)
-![NumPy](https://img.shields.io/badge/NumPy-07070f?style=for-the-badge&logo=numpy&logoColor=00f0ff)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-07070f?style=for-the-badge&logo=plotly&logoColor=f9f002)
-![Plotly](https://img.shields.io/badge/Plotly-07070f?style=for-the-badge&logo=plotly&logoColor=7b2dff)
-![Jupyter](https://img.shields.io/badge/Jupyter-07070f?style=for-the-badge&logo=jupyter&logoColor=ff2a6d)
-![Anaconda](https://img.shields.io/badge/Anaconda-07070f?style=for-the-badge&logo=anaconda&logoColor=00f0ff)
-![Postman](https://img.shields.io/badge/Postman-07070f?style=for-the-badge&logo=postman&logoColor=f9f002)
+![Pandas](https://img.shields.io/badge/Pandas-050a11?style=for-the-badge&logo=pandas&logoColor=ffb347)
+![NumPy](https://img.shields.io/badge/NumPy-050a11?style=for-the-badge&logo=numpy&logoColor=5ad7ff)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-050a11?style=for-the-badge&logo=plotly&logoColor=ffb347)
+![Plotly](https://img.shields.io/badge/Plotly-050a11?style=for-the-badge&logo=plotly&logoColor=5ad7ff)
+![Jupyter](https://img.shields.io/badge/Jupyter-050a11?style=for-the-badge&logo=jupyter&logoColor=ffb347)
+![Anaconda](https://img.shields.io/badge/Anaconda-050a11?style=for-the-badge&logo=anaconda&logoColor=5ad7ff)
+![Postman](https://img.shields.io/badge/Postman-050a11?style=for-the-badge&logo=postman&logoColor=ffb347)
 
 </div>
 
@@ -76,7 +76,7 @@ Every project here is built from the ground up: planning, designing, and solving
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-## `> status --in-progress`
+## `// 04 · IN TRAINING`
 
 | 🔭 Certifications & courses | 🌱 Currently learning |
 |---|---|
@@ -90,14 +90,14 @@ Every project here is built from the ground up: planning, designing, and solving
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-## `> stats --live`
+## `// 05 · TELEMETRY`
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=RayVazcari&show_icons=true&hide_border=true&bg_color=07070f&title_color=00f0ff&icon_color=ff2a6d&text_color=c9d1ff&ring_color=f9f002&count_private=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayVazcari&layout=compact&hide_border=true&bg_color=07070f&title_color=00f0ff&text_color=c9d1ff" alt="Top languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=RayVazcari&show_icons=true&hide_border=true&bg_color=050a11&title_color=5ad7ff&icon_color=ffb347&text_color=cfe3ee&ring_color=ffb347&count_private=true" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayVazcari&layout=compact&hide_border=true&bg_color=050a11&title_color=5ad7ff&text_color=cfe3ee" alt="Top languages" />
 
-<img src="https://streak-stats.demolab.com?user=RayVazcari&theme=dark&hide_border=true&background=07070F&ring=FF2A6D&fire=F9F002&currStreakLabel=00F0FF&sideLabels=C9D1FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9AA0C8" alt="Streak" />
+<img src="https://streak-stats.demolab.com?user=RayVazcari&theme=dark&hide_border=true&background=050a11&ring=ffb347&fire=ffb347&currStreakLabel=5ad7ff&sideLabels=cfe3ee&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=7fa0b4" alt="Streak" />
 
 </div>
 
@@ -116,6 +116,6 @@ Every project here is built from the ground up: planning, designing, and solving
 
 **Data Craftsman · Business Scientist · Bouldering Novice**
 
-<a href="https://www.linkedin.com/in/rayvazcari/"><img src="https://img.shields.io/badge/LET'S_CONNECT-ff2a6d?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=07070f" alt="Let's connect" /></a>
+<a href="https://www.linkedin.com/in/rayvazcari/"><img src="https://img.shields.io/badge/LET'S_CONNECT-ffb347?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=050a11" alt="Let's connect" /></a>
 
 </div>
