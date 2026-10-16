@@ -9,7 +9,7 @@
 <a href="https://www.linkedin.com/in/rayvazcari/"><img src="https://img.shields.io/badge/LINKEDIN-00F0FF?style=for-the-badge&logo=linkedin&logoColor=07070f&labelColor=07070f&color=00F0FF" alt="LinkedIn" /></a>
 <a href="https://github.com/RayVazcari?tab=followers"><img src="https://img.shields.io/badge/FOLLOW_ME-ff2a6d?style=for-the-badge&logo=github&logoColor=white&labelColor=07070f" alt="Follow me" /></a>
 <a href="https://github.com/RayVazcari?tab=repositories"><img src="https://img.shields.io/badge/REPOS-12-f9f002?style=for-the-badge&logo=gitbook&logoColor=f9f002&labelColor=07070f" alt="Repos" /></a>
-<img src="https://komarev.com/ghpvc/?username=RayVazcari&label=PROFILE+VIEWS&color=7b2dff&style=for-the-badge&labelColor=07070f" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=RayVazcari&label=PROFILE%20VIEWS&color=7b2dff&style=for-the-badge" alt="Profile views" />
 
 </div>
 
