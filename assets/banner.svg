@@ -49,36 +49,93 @@
     <text x="48" y="228" font-size="19" letter-spacing="5" fill="#5ad7ff">DATA &amp; ML SCIENTIST</text>
     <text x="48" y="254" font-size="13" letter-spacing="3" fill="#7fa0b4">MECHANICAL ENGINEER  ·  AZURE NETWORKING  ·  BUILDER</text>
 
-    <!-- radar -->
-    <g transform="translate(772 174) scale(0.86)">
-      <circle r="112" fill="none" stroke="#5ad7ff" stroke-opacity="0.18"/>
-      <circle r="84" fill="none" stroke="#5ad7ff" stroke-opacity="0.28"/>
-      <circle r="56" fill="none" stroke="#5ad7ff" stroke-opacity="0.38"/>
-      <circle r="28" fill="none" stroke="#5ad7ff" stroke-opacity="0.5"/>
-      <path d="M-124 0H124M0 -124V124" stroke="#5ad7ff" stroke-opacity="0.22"/>
-      <circle r="118" fill="none" stroke="#5ad7ff" stroke-opacity="0.7" stroke-width="3" stroke-dasharray="2 8.2"/>
-      <circle r="124" fill="none" stroke="#5ad7ff" stroke-opacity="0.9" stroke-width="2" stroke-dasharray="60 25 8 25">
-        <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="40s" repeatCount="indefinite"/>
-      </circle>
-      <g>
-        <path d="M0 0L112 0A112 112 0 0 0 98 -54Z" fill="#5ad7ff" fill-opacity="0.22"/>
-        <path d="M0 0H112" stroke="#5ad7ff" stroke-width="2"/>
-        <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="7s" repeatCount="indefinite"/>
-      </g>
-      <circle cx="46" cy="-38" r="3.5" fill="#ffb347"><animate attributeName="opacity" values="1;0.1;1" dur="3s" repeatCount="indefinite"/></circle>
-      <circle cx="-58" cy="30" r="3" fill="#e8f6ff"><animate attributeName="opacity" values="0.2;1;0.2" dur="4s" repeatCount="indefinite"/></circle>
-      <circle cx="20" cy="70" r="2.5" fill="#5ad7ff"><animate attributeName="opacity" values="1;0.2;1" dur="3.4s" repeatCount="indefinite"/></circle>
-      <circle r="3" fill="#e8f6ff"/>
-    </g>
-
-    <!-- side data bars -->
-    <g font-size="10" letter-spacing="2" fill="#6f93a8">
-      <text x="912" y="248" text-anchor="end">ML</text>
-      <rect x="918" y="241" width="34" height="3" fill="#5ad7ff" fill-opacity="0.2"/><rect x="918" y="241" width="26" height="3" fill="#5ad7ff"/>
-      <text x="912" y="262" text-anchor="end">PY</text>
-      <rect x="918" y="255" width="34" height="3" fill="#5ad7ff" fill-opacity="0.2"/><rect x="918" y="255" width="31" height="3" fill="#5ad7ff"/>
-      <text x="912" y="276" text-anchor="end">AZ</text>
-      <rect x="918" y="269" width="34" height="3" fill="#5ad7ff" fill-opacity="0.2"/><rect x="918" y="269" width="29" height="3" fill="#5ad7ff"/>
+    
+    <g id="net">
+    <path d="M610 97L700 88" stroke="#5ad7ff" stroke-opacity="0.16"/>
+    <path d="M610 97L700 130" stroke="#5ad7ff" stroke-opacity="0.16"/>
+    <path d="M610 97L700 172" stroke="#5ad7ff" stroke-opacity="0.16"/>
+    <path d="M610 97L700 214" stroke="#5ad7ff" stroke-opacity="0.16"/>
+    <path d="M610 97L700 256" stroke="#5ad7ff" stroke-opacity="0.16"/>
+    <path d="M610 147L700 88" stroke="#5ad7ff" stroke-opacity="0.16"/>
+    <path d="M610 147L700 130" stroke="#5ad7ff" stroke-opacity="0.16"/>
+    <path d="M610 147L700 172" stroke="#5ad7ff" stroke-opacity="0.16"/>
+    <path d="M610 147L700 214" stroke="#5ad7ff" stroke-opacity="0.16"/>
+    <path d="M610 147L700 256" stroke="#5ad7ff" stroke-opacity="0.16"/>
+    <path d="M610 197L700 88" stroke="#5ad7ff" stroke-opacity="0.16"/>
+    <path d="M610 197L700 130" stroke="#5ad7ff" stroke-opacity="0.16"/>
+    <path d="M610 197L700 172" stroke="#5ad7ff" stroke-opacity="0.16"/>
+    <path d="M610 197L700 214" stroke="#5ad7ff" stroke-opacity="0.16"/>
+    <path d="M610 197L700 256" stroke="#5ad7ff" stroke-opacity="0.16"/>
+    <path d="M610 247L700 88" stroke="#5ad7ff" stroke-opacity="0.16"/>
+    <path d="M610 247L700 130" stroke="#5ad7ff" stroke-opacity="0.16"/>
+    <path d="M610 247L700 172" stroke="#5ad7ff" stroke-opacity="0.16"/>
+    <path d="M610 247L700 214" stroke="#5ad7ff" stroke-opacity="0.16"/>
+    <path d="M610 247L700 256" stroke="#5ad7ff" stroke-opacity="0.16"/>
+    <path d="M700 88L790 88" stroke="#5ad7ff" stroke-opacity="0.16"/>
+    <path d="M700 88L790 130" stroke="#5ad7ff" stroke-opacity="0.16"/>
+    <path d="M700 88L790 172" stroke="#5ad7ff" stroke-opacity="0.16"/>
+    <path d="M700 88L790 214" stroke="#5ad7ff" stroke-opacity="0.16"/>
+    <path d="M700 88L790 256" stroke="#5ad7ff" stroke-opacity="0.16"/>
+    <path d="M700 130L790 88" stroke="#5ad7ff" stroke-opacity="0.16"/>
+    <path d="M700 130L790 130" stroke="#5ad7ff" stroke-opacity="0.16"/>
+    <path d="M700 130L790 172" stroke="#5ad7ff" stroke-opacity="0.16"/>
+    <path d="M700 130L790 214" stroke="#5ad7ff" stroke-opacity="0.16"/>
+    <path d="M700 130L790 256" stroke="#5ad7ff" stroke-opacity="0.16"/>
+    <path d="M700 172L790 88" stroke="#5ad7ff" stroke-opacity="0.16"/>
+    <path d="M700 172L790 130" stroke="#5ad7ff" stroke-opacity="0.16"/>
+    <path d="M700 172L790 172" stroke="#5ad7ff" stroke-opacity="0.16"/>
+    <path d="M700 172L790 214" stroke="#5ad7ff" stroke-opacity="0.16"/>
+    <path d="M700 172L790 256" stroke="#5ad7ff" stroke-opacity="0.16"/>
+    <path d="M700 214L790 88" stroke="#5ad7ff" stroke-opacity="0.16"/>
+    <path d="M700 214L790 130" stroke="#5ad7ff" stroke-opacity="0.16"/>
+    <path d="M700 214L790 172" stroke="#5ad7ff" stroke-opacity="0.16"/>
+    <path d="M700 214L790 214" stroke="#5ad7ff" stroke-opacity="0.16"/>
+    <path d="M700 214L790 256" stroke="#5ad7ff" stroke-opacity="0.16"/>
+    <path d="M700 256L790 88" stroke="#5ad7ff" stroke-opacity="0.16"/>
+    <path d="M700 256L790 130" stroke="#5ad7ff" stroke-opacity="0.16"/>
+    <path d="M700 256L790 172" stroke="#5ad7ff" stroke-opacity="0.16"/>
+    <path d="M700 256L790 214" stroke="#5ad7ff" stroke-opacity="0.16"/>
+    <path d="M700 256L790 256" stroke="#5ad7ff" stroke-opacity="0.16"/>
+    <path d="M790 88L880 112" stroke="#5ad7ff" stroke-opacity="0.16"/>
+    <path d="M790 88L880 172" stroke="#5ad7ff" stroke-opacity="0.16"/>
+    <path d="M790 88L880 232" stroke="#5ad7ff" stroke-opacity="0.16"/>
+    <path d="M790 130L880 112" stroke="#5ad7ff" stroke-opacity="0.16"/>
+    <path d="M790 130L880 172" stroke="#5ad7ff" stroke-opacity="0.16"/>
+    <path d="M790 130L880 232" stroke="#5ad7ff" stroke-opacity="0.16"/>
+    <path d="M790 172L880 112" stroke="#5ad7ff" stroke-opacity="0.16"/>
+    <path d="M790 172L880 172" stroke="#5ad7ff" stroke-opacity="0.16"/>
+    <path d="M790 172L880 232" stroke="#5ad7ff" stroke-opacity="0.16"/>
+    <path d="M790 214L880 112" stroke="#5ad7ff" stroke-opacity="0.16"/>
+    <path d="M790 214L880 172" stroke="#5ad7ff" stroke-opacity="0.16"/>
+    <path d="M790 214L880 232" stroke="#5ad7ff" stroke-opacity="0.16"/>
+    <path d="M790 256L880 112" stroke="#5ad7ff" stroke-opacity="0.16"/>
+    <path d="M790 256L880 172" stroke="#5ad7ff" stroke-opacity="0.16"/>
+    <path d="M790 256L880 232" stroke="#5ad7ff" stroke-opacity="0.16"/>
+    <path d="M610 147L700 172" stroke="#5ad7ff" stroke-width="1.6" stroke-dasharray="5 9"><animate attributeName="stroke-dashoffset" values="28;0" dur="1.6s" repeatCount="indefinite"/></path>
+    <path d="M700 172L790 130" stroke="#5ad7ff" stroke-width="1.6" stroke-dasharray="5 9"><animate attributeName="stroke-dashoffset" values="28;0" dur="1.6s" repeatCount="indefinite"/></path>
+    <path d="M790 130L880 172" stroke="#5ad7ff" stroke-width="1.6" stroke-dasharray="5 9"><animate attributeName="stroke-dashoffset" values="28;0" dur="1.6s" repeatCount="indefinite"/></path>
+    <circle cx="610" cy="97" r="5" fill="#050a11" stroke="#5ad7ff" stroke-opacity="0.8"/>
+    <circle cx="610" cy="147" r="5" fill="#050a11" stroke="#5ad7ff" stroke-opacity="0.8"/>
+    <circle cx="610" cy="197" r="5" fill="#050a11" stroke="#5ad7ff" stroke-opacity="0.8"/>
+    <circle cx="610" cy="247" r="5" fill="#050a11" stroke="#5ad7ff" stroke-opacity="0.8"/>
+    <circle cx="700" cy="88" r="5" fill="#050a11" stroke="#5ad7ff" stroke-opacity="0.8"/>
+    <circle cx="700" cy="130" r="5" fill="#050a11" stroke="#5ad7ff" stroke-opacity="0.8"/>
+    <circle cx="700" cy="172" r="5" fill="#050a11" stroke="#5ad7ff" stroke-opacity="0.8"/>
+    <circle cx="700" cy="214" r="5" fill="#050a11" stroke="#5ad7ff" stroke-opacity="0.8"/>
+    <circle cx="700" cy="256" r="5" fill="#050a11" stroke="#5ad7ff" stroke-opacity="0.8"/>
+    <circle cx="790" cy="88" r="5" fill="#050a11" stroke="#5ad7ff" stroke-opacity="0.8"/>
+    <circle cx="790" cy="130" r="5" fill="#050a11" stroke="#5ad7ff" stroke-opacity="0.8"/>
+    <circle cx="790" cy="172" r="5" fill="#050a11" stroke="#5ad7ff" stroke-opacity="0.8"/>
+    <circle cx="790" cy="214" r="5" fill="#050a11" stroke="#5ad7ff" stroke-opacity="0.8"/>
+    <circle cx="790" cy="256" r="5" fill="#050a11" stroke="#5ad7ff" stroke-opacity="0.8"/>
+    <circle cx="880" cy="112" r="5" fill="#050a11" stroke="#5ad7ff" stroke-opacity="0.8"/>
+    <circle cx="880" cy="172" r="5" fill="#050a11" stroke="#5ad7ff" stroke-opacity="0.8"/>
+    <circle cx="880" cy="232" r="5" fill="#050a11" stroke="#5ad7ff" stroke-opacity="0.8"/>
+    <circle cx="610" cy="147" r="5" fill="#5ad7ff"><animate attributeName="opacity" values="1;0.35;1" dur="2.4s" repeatCount="indefinite"/></circle>
+    <circle cx="700" cy="172" r="5" fill="#5ad7ff"><animate attributeName="opacity" values="1;0.35;1" dur="2.4s" repeatCount="indefinite"/></circle>
+    <circle cx="790" cy="130" r="5" fill="#5ad7ff"><animate attributeName="opacity" values="1;0.35;1" dur="2.4s" repeatCount="indefinite"/></circle>
+    <circle cx="880" cy="172" r="7" fill="#ffb347"><animate attributeName="opacity" values="1;0.3;1" dur="2.4s" repeatCount="indefinite"/></circle>
+    <g font-size="9" letter-spacing="3" fill="#6f93a8" text-anchor="middle"><text x="610" y="280">INPUT</text><text x="745" y="280">HIDDEN</text><text x="880" y="280">OUTPUT</text></g>
     </g>
 
     <!-- bottom tick scale -->
